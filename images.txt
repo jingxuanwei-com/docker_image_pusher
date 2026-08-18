@@ -7,3 +7,4 @@ xhofe/alist:latest
 snowdreamtech/frps
 ghcr.io/sagernet/sing-box
 kanggle/nezha-agent
+nickfedor/watchtower
