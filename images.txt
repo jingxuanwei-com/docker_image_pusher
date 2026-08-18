@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 snowdreamtech/frps
 ghcr.io/sagernet/sing-box
+kanggle/nezha-agent
